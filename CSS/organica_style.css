@@ -55,6 +55,7 @@ h1, h2, h3, h4, h5, h6, p {
 	
 	font-weight: bold;
 	color: #FFD700;
+	text-shadow: #357d98 0 1px 1px;
 	text-decoration: none;
 	display: block;
 }
