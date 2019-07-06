@@ -8,5 +8,8 @@ HTML верстка сайта по PSD макету.
 ## Онлайн демо:
 https://alexanderkarmanov.github.io/organica/
 
-##Тестировать локально:
+## Тестировать локально:
 
+git clone https://github.com/alexanderkarmanov/organica.git
+
+открыть index.html
